@@ -37,5 +37,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/Kro0sh)
-- Telegram [@your-twitter](https://t.me/Kro0sh)
+- GitHub [@Kro0sh](https://github.com/Kro0sh)
+- Telegram [@Kro0sh](https://t.me/Kro0sh)
